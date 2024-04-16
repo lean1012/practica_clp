@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+d/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/10_cont4b/Simulacion
+Emult2x1
+Z0 w1713142252
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 d/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/4_mult2x1/Simulacion
+Z4 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/4_mult2x1/Fuentes/mult2x1.vhd
+Z5 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/4_mult2x1/Fuentes/mult2x1.vhd
+l0
+L4
+VCeG?kLjbzkTXT>ELIe>4_2
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1713142471.300890
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/4_mult2x1/Fuentes/mult2x1.vhd|
+Z9 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/4_mult2x1/Fuentes/mult2x1.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 S6a:c`6MBh;j_fmKaeh`90
+!i10b 1
+Amult2x1_arq
+R1
+R2
+DEx4 work 7 mult2x1 0 22 CeG?kLjbzkTXT>ELIe>4_2
+l21
+L16
+Vc>=mJC3K^LPWfE^RiRi=[0
+!s100 :OQj4bI32F<d2WD^zn48Z3
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!i10b 1
+Emult2x1_tb
+Z12 w1713142461
+R1
+R2
+R3
+Z13 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/4_mult2x1/Fuentes/mult2x1_tb.vhd
+Z14 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/4_mult2x1/Fuentes/mult2x1_tb.vhd
+l0
+L4
+V0NM?F7:>=IRP3TXJlZ52V0
+!s100 jjzfBJfUMCJJO]ZNO3[^01
+R6
+32
+!i10b 1
+Z15 !s108 1713142471.336857
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/4_mult2x1/Fuentes/mult2x1_tb.vhd|
+Z17 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/4_mult2x1/Fuentes/mult2x1_tb.vhd|
+R10
+R11
+Amult2x1_tb_arq
+R1
+R2
+Z18 DEx4 work 10 mult2x1_tb 0 22 0NM?F7:>=IRP3TXJlZ52V0
+l28
+L7
+Z19 VUmBW_Je904f94FmGGT7m>1
+Z20 !s100 lhL91g>eR1T::<gW=f0^I0
+R6
+32
+!i10b 1
+R15
+R16
+R17
+R10
+R11

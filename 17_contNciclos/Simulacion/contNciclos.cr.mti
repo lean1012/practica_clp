@@ -1,0 +1,20 @@
+/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/17_contNciclos/Fuentes/contNciclos.vhd {1 {vcom -work work -2002 -explicit /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/17_contNciclos/Fuentes/contNciclos.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity contNciclos
+-- Compiling architecture contNciclos_arq of contNciclos
+
+} {} {}} /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/17_contNciclos/Fuentes/contNciclos_tb.vhd {1 {vcom -work work -2002 -explicit /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/17_contNciclos/Fuentes/contNciclos_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity contNciclos_tb
+-- Compiling architecture contNciclos_tb_arq of contNciclos_tb
+-- Loading package NUMERIC_STD
+-- Loading entity contNciclos
+
+} {} {}}

@@ -1,0 +1,77 @@
+m255
+K3
+13
+cModel Technology
+d/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/13_contNb_comportamiento
+Econtnb_comp
+Z0 w1712968813
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 d/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/13_contNb_comportamiento/Simulacion
+Z5 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/13_contNb_comportamiento/Fuentes/contNb_comp.vhd
+Z6 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/13_contNb_comportamiento/Fuentes/contNb_comp.vhd
+l0
+L6
+V4277jGB;U1WEaWF^6LSTz3
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1712969864.800112
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/13_contNb_comportamiento/Fuentes/contNb_comp.vhd|
+Z10 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/13_contNb_comportamiento/Fuentes/contNb_comp.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 JZnEHOQ<[zdnB`o9Pb@hM1
+!i10b 1
+Acontnb_comp_arq
+R1
+R2
+R3
+DEx4 work 11 contnb_comp 0 22 4277jGB;U1WEaWF^6LSTz3
+l24
+L18
+ViU<]`Z?M;F6AU?GHadKc^0
+!s100 @0BfbV1dlE7M;V?YW2Z``2
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!i10b 1
+Econtnb_comp_tb
+Z13 w1712968966
+R2
+R3
+R4
+Z14 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/13_contNb_comportamiento/Fuentes/contNb_comp_tb.vhd
+Z15 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/13_contNb_comportamiento/Fuentes/contNb_comp_tb.vhd
+l0
+L4
+VA7Den:c^O9?BCQ08ihN>b3
+!s100 ]NDB0FZJPB]mG<@KZg7<P0
+R7
+32
+!i10b 1
+Z16 !s108 1712969864.822671
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/13_contNb_comportamiento/Fuentes/contNb_comp_tb.vhd|
+Z18 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/13_contNb_comportamiento/Fuentes/contNb_comp_tb.vhd|
+R11
+R12
+Acontnb_comp_tb_arq
+R2
+R3
+Z19 DEx4 work 14 contnb_comp_tb 0 22 A7Den:c^O9?BCQ08ihN>b3
+l28
+L7
+Z20 VzJoBIaQnz_VRQXBe^@?^S0
+Z21 !s100 P6e4ILjPTZ3H:?F<5GQIc1
+R7
+32
+!i10b 1
+R16
+R17
+R18
+R11
+R12

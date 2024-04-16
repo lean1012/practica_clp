@@ -1,0 +1,147 @@
+m255
+K3
+13
+cModel Technology
+d/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/2_sum4b/Simulacion
+Esum1b
+Z0 w1710622803
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 d/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/3_sumrest4b/Simulacion
+Z4 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/3_sumrest4b/Fuentes/sum1b.vhd
+Z5 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/3_sumrest4b/Fuentes/sum1b.vhd
+l0
+L4
+VPnK4m<`[PEb]6>Z6:cbQc1
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1713133399.398384
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/3_sumrest4b/Fuentes/sum1b.vhd|
+Z9 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/3_sumrest4b/Fuentes/sum1b.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 Jdn]W:OPoUg57n@]CBf;f0
+!i10b 1
+Asum1b_arq
+R1
+R2
+DEx4 work 5 sum1b 0 22 PnK4m<`[PEb]6>Z6:cbQc1
+l15
+L14
+VN]e1bR7=oR5LBl@IboRg?3
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 ZJLYiReOl8Te28ReWjEm]1
+!i10b 1
+Esumnb
+Z12 w1710624746
+R1
+R2
+R3
+Z13 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/3_sumrest4b/Fuentes/sumNb.vhd
+Z14 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/3_sumrest4b/Fuentes/sumNb.vhd
+l0
+L4
+VoZiSRDeT<9N=e^[dNjceY1
+R6
+32
+Z15 !s108 1713133399.436590
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/3_sumrest4b/Fuentes/sumNb.vhd|
+Z17 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/3_sumrest4b/Fuentes/sumNb.vhd|
+R10
+R11
+!s100 bKKZFlNUaMlAE8]n82iZo3
+!i10b 1
+Asumnb_arq
+R1
+R2
+DEx4 work 5 sumnb 0 22 oZiSRDeT<9N=e^[dNjceY1
+l32
+L18
+VnKoO7F>z<L>[]`H6_J_^`1
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!s100 n4X_Q^<T6TLmemfXLo0>52
+!i10b 1
+Esumrestnb
+Z18 w1713133246
+R1
+R2
+R3
+Z19 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/3_sumrest4b/Fuentes/sumrestNb.vhd
+Z20 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/3_sumrest4b/Fuentes/sumrestNb.vhd
+l0
+L4
+Vd?]i]e@KIg@;7L8:U@Ff;1
+R6
+32
+Z21 !s108 1713133399.463811
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/3_sumrest4b/Fuentes/sumrestNb.vhd|
+Z23 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/3_sumrest4b/Fuentes/sumrestNb.vhd|
+R10
+R11
+!s100 d<Wac:TJE^_WGgf1?=ak<2
+!i10b 1
+Asumrestnb_arq
+R1
+R2
+DEx4 work 9 sumrestnb 0 22 d?]i]e@KIg@;7L8:U@Ff;1
+l35
+L18
+V<M7gUSIN18AbLCoERbXmH3
+!s100 W`hj8FzGY<2cgb3CdCO;L0
+R6
+32
+R21
+R22
+R23
+R10
+R11
+!i10b 1
+Esumrestnb_tb
+Z24 w1713133395
+Z25 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R1
+R2
+R3
+Z26 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/3_sumrest4b/Fuentes/sumrestNb_tb.vhd
+Z27 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/3_sumrest4b/Fuentes/sumrestNb_tb.vhd
+l0
+L6
+V]=RWf=EUYX5YP:DDM_fd43
+!s100 aKSJhf?aWShnjTb6BoE702
+R6
+32
+!i10b 1
+Z28 !s108 1713133399.493553
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/3_sumrest4b/Fuentes/sumrestNb_tb.vhd|
+Z30 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/3_sumrest4b/Fuentes/sumrestNb_tb.vhd|
+R10
+R11
+Asumrestnb_tb_arq
+R25
+R1
+R2
+Z31 DEx4 work 12 sumrestnb_tb 0 22 ]=RWf=EUYX5YP:DDM_fd43
+l32
+L9
+V`fnSDM2Wh@7><SWkCMlB23
+!s100 i6YcV<FTeGKlOMdF@]1bo1
+R6
+32
+!i10b 1
+R28
+R29
+R30
+R10
+R11

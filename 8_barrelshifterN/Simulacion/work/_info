@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+d/home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Simulacion
+Ebarrelshiftern
+Z0 w1713129174
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 d/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/8_barrelshifterN/Simulacion
+Z5 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/8_barrelshifterN/Fuentes/barrelshifterN.vhd
+Z6 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/8_barrelshifterN/Fuentes/barrelshifterN.vhd
+l0
+L5
+VnE]M_82CSDnAzUPbPi3_g3
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1713129657.749861
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/8_barrelshifterN/Fuentes/barrelshifterN.vhd|
+Z10 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/8_barrelshifterN/Fuentes/barrelshifterN.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 zFX9c_jRYPNQ0GjkAaKcR2
+!i10b 1
+Abarrelshiftern_arq
+R1
+R2
+R3
+DEx4 work 14 barrelshiftern 0 22 nE]M_82CSDnAzUPbPi3_g3
+l22
+L17
+Vem]QBKY[?ZZZC3lo[U@``1
+!s100 le4J2Q:lWdG_i;CEBV7Eb0
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!i10b 1
+Ebarrelshiftern_tb
+Z13 w1713129653
+R1
+R2
+R3
+R4
+Z14 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/8_barrelshifterN/Fuentes/barrelshifterN_tb.vhd
+Z15 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/8_barrelshifterN/Fuentes/barrelshifterN_tb.vhd
+l0
+L5
+VENmj0?_Xh4f=fVbZ_ehBY1
+!s100 OG[Z4CR>>Y_R]^?Z>deWh3
+R7
+32
+!i10b 1
+Z16 !s108 1713129657.784560
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/8_barrelshifterN/Fuentes/barrelshifterN_tb.vhd|
+Z18 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/8_barrelshifterN/Fuentes/barrelshifterN_tb.vhd|
+R11
+R12
+Abarrelshiftern_tb_arq
+R1
+R2
+R3
+Z19 DEx4 work 17 barrelshiftern_tb 0 22 ENmj0?_Xh4f=fVbZ_ehBY1
+l28
+L8
+Z20 VG0X=3Akflgj`fa0U;kjjm2
+Z21 !s100 KMcB13P]bgFQnmK=;c]ZB1
+R7
+32
+!i10b 1
+R16
+R17
+R18
+R11
+R12

@@ -1,0 +1,112 @@
+m255
+K3
+13
+cModel Technology
+d/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/8_barrelshifterN/Simulacion
+Esum1b
+Z0 w1711234707
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 d/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/2_sum4b/Simulacion
+Z4 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/2_sum4b/Fuentes/sum1b.vhd
+Z5 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/2_sum4b/Fuentes/sum1b.vhd
+l0
+L4
+VPnK4m<`[PEb]6>Z6:cbQc1
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1713130716.093111
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/2_sum4b/Fuentes/sum1b.vhd|
+Z9 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/2_sum4b/Fuentes/sum1b.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 Jdn]W:OPoUg57n@]CBf;f0
+!i10b 1
+Asum1b_arq
+R1
+R2
+DEx4 work 5 sum1b 0 22 PnK4m<`[PEb]6>Z6:cbQc1
+l15
+L14
+VN]e1bR7=oR5LBl@IboRg?3
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 ZJLYiReOl8Te28ReWjEm]1
+!i10b 1
+Esum4b
+Z12 w1713130639
+R1
+R2
+R3
+Z13 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/2_sum4b/Fuentes/sum4b.vhd
+Z14 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/2_sum4b/Fuentes/sum4b.vhd
+l0
+L4
+Vb]<D9=Uj;gdAUInKd5fZH2
+R6
+32
+Z15 !s108 1713130716.127517
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/2_sum4b/Fuentes/sum4b.vhd|
+Z17 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/2_sum4b/Fuentes/sum4b.vhd|
+R10
+R11
+!s100 LI9ZCUHFYk>l]A5IA[C`n3
+!i10b 1
+Asum4b_arq
+R1
+R2
+DEx4 work 5 sum4b 0 22 b]<D9=Uj;gdAUInKd5fZH2
+l33
+L18
+Vg?zNGAlDdC2ib[g2F]TmR2
+!s100 PjePKHhSWCX?OjHLgkdee2
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!i10b 1
+Esum4b_tb
+Z18 w1713130714
+Z19 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R1
+R2
+R3
+Z20 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/2_sum4b/Fuentes/sum4b_tb.vhd
+Z21 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/2_sum4b/Fuentes/sum4b_tb.vhd
+l0
+L6
+Vk1N[j0k]o<m>6eU_EU@DB1
+!s100 1Ml@LJh;17VHkliDVeG>o0
+R6
+32
+!i10b 1
+Z22 !s108 1713130716.156402
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/2_sum4b/Fuentes/sum4b_tb.vhd|
+Z24 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/2_sum4b/Fuentes/sum4b_tb.vhd|
+R10
+R11
+Asum4b_tb_arq
+R19
+R1
+R2
+Z25 DEx4 work 8 sum4b_tb 0 22 k1N[j0k]o<m>6eU_EU@DB1
+l34
+L9
+VMZbk;P8KCJ14h>^CT?m^P3
+!s100 L`>QHBUP=z7^z6Jnjig5`0
+R6
+32
+!i10b 1
+R22
+R23
+R24
+R10
+R11

@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/15_contBCD_comportamiento/Simulacion
+Econtbcd_comp
+Z1 w1712965120
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 d/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/15_contBCD_comportamiento/Simulacion
+Z6 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/15_contBCD_comportamiento/Fuentes/contBCD_comp.vhd
+Z7 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/15_contBCD_comportamiento/Fuentes/contBCD_comp.vhd
+l0
+L6
+VR8@zCM=4AhSYfIL:?EZ8k0
+Z8 OV;C;10.1d;51
+32
+Z9 !s108 1712965124.393428
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/15_contBCD_comportamiento/Fuentes/contBCD_comp.vhd|
+Z11 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/15_contBCD_comportamiento/Fuentes/contBCD_comp.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 A;m8XVjX_LJTZ=NPNBOEe3
+!i10b 1
+Acontbcd_comp_arq
+R2
+R3
+R4
+Z14 DEx4 work 12 contbcd_comp 0 22 R8@zCM=4AhSYfIL:?EZ8k0
+l20
+L16
+V0BNmNIbP1]UfDU0^__E7A0
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 W^PSe4z4Gl>f[4a>6JFNf0
+!i10b 1
+Econtbcd_comp_tb
+Z15 w1712965098
+R3
+R4
+R5
+Z16 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/15_contBCD_comportamiento/Fuentes/contBCD_comp_tb.vhd
+Z17 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/15_contBCD_comportamiento/Fuentes/contBCD_comp_tb.vhd
+l0
+L4
+V`j^Y=i8>h<S6kbAAc9]3i2
+!s100 ?>OE1V@gQ`_m^kKYn3N1D3
+R8
+32
+!i10b 1
+Z18 !s108 1712965124.434202
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/15_contBCD_comportamiento/Fuentes/contBCD_comp_tb.vhd|
+Z20 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/15_contBCD_comportamiento/Fuentes/contBCD_comp_tb.vhd|
+R12
+R13
+Acontbcd_comp_tb_arq
+R2
+R14
+R3
+R4
+Z21 DEx4 work 15 contbcd_comp_tb 0 22 `j^Y=i8>h<S6kbAAc9]3i2
+l16
+L7
+Z22 Vi4T9nD[B9]dLHKG[CD_Qo2
+Z23 !s100 JK6EQ8Z<2hUWzV;lZS8=]0
+R8
+32
+!i10b 1
+R18
+R19
+R20
+R12
+R13

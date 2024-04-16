@@ -1,0 +1,9 @@
+/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/4_mult2x1/Fuentes/mult2x1_tb.vhd {1 {vcom -work work -2002 -explicit /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/4_mult2x1/Fuentes/mult2x1_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mult2x1_tb
+-- Compiling architecture mult2x1_tb_arq of mult2x1_tb
+
+} {} {}}

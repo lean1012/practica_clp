@@ -1,0 +1,180 @@
+m255
+K3
+13
+cModel Technology
+d/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/5_ffd/Simulacion
+Effd
+Z0 w1711243864
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 d/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/6_shiftNb/Simulacion
+Z4 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/6_shiftNb/Fuentes/ffd.vhd
+Z5 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/6_shiftNb/Fuentes/ffd.vhd
+l0
+L4
+VHnnJObk4>ONIFcN^cIgT42
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1711243969.893546
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/6_shiftNb/Fuentes/ffd.vhd|
+Z9 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/6_shiftNb/Fuentes/ffd.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 5DaGF<mAF:ln8fYAi5HZ^0
+!i10b 1
+Affd_arq
+R1
+R2
+DEx4 work 3 ffd 0 22 HnnJObk4>ONIFcN^cIgT42
+l17
+L14
+VkAB?K44dRg]e6KBn[lA?`3
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 dHe=KzI3Z_TjjC38fCHj_1
+!i10b 1
+Effdnb
+Z12 w1711238684
+R1
+R2
+Z13 d/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/5.1_ffdNb/Simulacion
+Z14 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/5.1_ffdNb/Fuentes/ffdNb.vhd
+Z15 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/5.1_ffdNb/Fuentes/ffdNb.vhd
+l0
+L4
+VlDAhZ_@oncW;SGGW^Kg<Y3
+R6
+32
+Z16 !s108 1711238879.614274
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/5.1_ffdNb/Fuentes/ffdNb.vhd|
+Z18 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/5.1_ffdNb/Fuentes/ffdNb.vhd|
+R10
+R11
+!s100 IE9Z0e90Q94f@dd0@k[Y`0
+!i10b 1
+Affdnb_arq
+R1
+R2
+DEx4 work 5 ffdnb 0 22 lDAhZ_@oncW;SGGW^Kg<Y3
+l31
+L17
+VKz:CD<iW28IllBNzmP`zJ0
+R6
+32
+R16
+R17
+R18
+R10
+R11
+!s100 0kLaknLc5J<WN9hB@61lQ1
+!i10b 1
+Effdnb_tb
+Z19 w1711238872
+R1
+R2
+R13
+Z20 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/5.1_ffdNb/Fuentes/ffd_tb.vhd
+Z21 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/5.1_ffdNb/Fuentes/ffd_tb.vhd
+l0
+L4
+V^ZeNMJ9SdaE15OdNHIo=Q0
+R6
+32
+Z22 !s108 1711238879.591386
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/5.1_ffdNb/Fuentes/ffd_tb.vhd|
+Z24 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/5.1_ffdNb/Fuentes/ffd_tb.vhd|
+R10
+R11
+!s100 LZTZ4H0nH8NFSn;9FWC9K3
+!i10b 1
+Affdnb_tb_arq
+R1
+R2
+DEx4 work 8 ffdnb_tb 0 22 ^ZeNMJ9SdaE15OdNHIo=Q0
+l28
+L7
+VOGzKjbcAzNVXCK0:?CT^h3
+R6
+32
+R22
+R23
+R24
+R10
+R11
+!s100 Bc8TEXmgW0H3DhVei[A123
+!i10b 1
+Eshiftnb
+Z25 w1711243391
+R1
+R2
+R3
+Z26 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/6_shiftNb/Fuentes/shift.vhd
+Z27 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/6_shiftNb/Fuentes/shift.vhd
+l0
+L4
+VQ4?Fo7A0m@Mnc7^A0C83R1
+R6
+32
+Z28 !s108 1711243969.914075
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/6_shiftNb/Fuentes/shift.vhd|
+Z30 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/6_shiftNb/Fuentes/shift.vhd|
+R10
+R11
+!s100 YZIH`d<:<a;RCLXHf:5oz1
+!i10b 1
+Ashiftnb_arq
+R1
+R2
+DEx4 work 7 shiftnb 0 22 Q4?Fo7A0m@Mnc7^A0C83R1
+l32
+L17
+VUD:i^QDLh7Ice>oob=CV;2
+!s100 B6:j<Ki9BV[8ZK?gLl`XA2
+R6
+32
+R28
+R29
+R30
+R10
+R11
+!i10b 1
+Eshiftnb_tb
+Z31 w1711243967
+R1
+R2
+R3
+Z32 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/6_shiftNb/Fuentes/shift_tb.vhd
+Z33 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/6_shiftNb/Fuentes/shift_tb.vhd
+l0
+L4
+VmC;nT8B<62AEQ]fMfc?ol3
+!s100 CTNFO]NH;=aM^o7mlK0Z;0
+R6
+32
+!i10b 1
+Z34 !s108 1711243969.933128
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/6_shiftNb/Fuentes/shift_tb.vhd|
+Z36 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/6_shiftNb/Fuentes/shift_tb.vhd|
+R10
+R11
+Ashiftnb_tb_arq
+R1
+R2
+Z37 DEx4 work 10 shiftnb_tb 0 22 mC;nT8B<62AEQ]fMfc?ol3
+l29
+L7
+V8976kW;4omn6>2H9KZcCE0
+!s100 ^]=W@DdW[^hPLCkz>ik=`2
+R6
+32
+!i10b 1
+R34
+R35
+R36
+R10
+R11

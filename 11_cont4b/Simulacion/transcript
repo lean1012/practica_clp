@@ -1,0 +1,1106 @@
+# Loading project cont4b
+# reading /home/leandro/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project float_adder
+# Compile of floatpoint_adder.vhd failed with 4 errors.
+# Compile of floatpoint_adder.vhd failed with 4 errors.
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder.vhd failed with 2 errors.
+# Compile of floatpoint_adder.vhd failed with 2 errors.
+# Compile of floatpoint_adder.vhd failed with 2 errors.
+# Compile of floatpoint_adder.vhd failed with 2 errors.
+# Compile of floatpoint_adder.vhd failed with 2 errors.
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder.vhd failed with 2 errors.
+# Compile of floatpoint_adder.vhd failed with 2 errors.
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.floatpoint_adder_tb
+# vsim -voptargs=+acc work.floatpoint_adder_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+add wave -position end  sim:/floatpoint_adder_tb/DUT/a_i
+add wave -position end  sim:/floatpoint_adder_tb/DUT/b_i
+add wave -position end  sim:/floatpoint_adder_tb/DUT/start_i
+add wave -position end  sim:/floatpoint_adder_tb/DUT/s_o
+add wave -position end  sim:/floatpoint_adder_tb/DUT/done_o
+add wave -position end  sim:/floatpoint_adder_tb/DUT/rst
+add wave -position end  sim:/floatpoint_adder_tb/DUT/clk
+add wave -position end  sim:/floatpoint_adder_tb/DUT/state_reg
+add wave -position end  sim:/floatpoint_adder_tb/DUT/state_next
+add wave -position end  sim:/floatpoint_adder_tb/DUT/sg_a
+add wave -position end  sim:/floatpoint_adder_tb/DUT/exponent_a
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_a
+add wave -position end  sim:/floatpoint_adder_tb/DUT/sg_b
+add wave -position end  sim:/floatpoint_adder_tb/DUT/exponent_b
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_b
+run
+run
+run
+run
+add wave -position end  sim:/floatpoint_adder_tb/a_tb
+add wave -position end  sim:/floatpoint_adder_tb/b_tb
+add wave -position end  sim:/floatpoint_adder_tb/start_tb
+add wave -position end  sim:/floatpoint_adder_tb/s_tb
+add wave -position end  sim:/floatpoint_adder_tb/done_tb
+add wave -position end  sim:/floatpoint_adder_tb/rst_tb
+add wave -position end  sim:/floatpoint_adder_tb/clk_tb
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+add wave -position end  sim:/floatpoint_adder_tb/DUT/a_i
+add wave -position end  sim:/floatpoint_adder_tb/DUT/b_i
+add wave -position end  sim:/floatpoint_adder_tb/DUT/start_i
+add wave -position end  sim:/floatpoint_adder_tb/DUT/s_o
+add wave -position end  sim:/floatpoint_adder_tb/DUT/done_o
+add wave -position end  sim:/floatpoint_adder_tb/DUT/rst
+add wave -position end  sim:/floatpoint_adder_tb/DUT/clk
+add wave -position end  sim:/floatpoint_adder_tb/DUT/state_reg
+add wave -position end  sim:/floatpoint_adder_tb/DUT/state_next
+add wave -position end  sim:/floatpoint_adder_tb/DUT/sg_a
+add wave -position end  sim:/floatpoint_adder_tb/DUT/exponent_a
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_a
+add wave -position end  sim:/floatpoint_adder_tb/DUT/sg_b
+add wave -position end  sim:/floatpoint_adder_tb/DUT/exponent_b
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_b
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd failed with 2 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 2 errors. 
+# Compile of floatpoint_adder.vhd failed with 2 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 2 errors. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 24 (23 downto 0). Right is 8 (30 downto 23).
+#    Time: 0 ps  Iteration: 0  Process: /floatpoint_adder_tb/DUT/line__51 File: /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd
+# Fatal error in Process line__51 at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd line 62
+# 
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 62 Process line__51
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 62 Process line__51
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 62 Process line__51
+# 
+restart
+run
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 24 (23 downto 0). Right is 8 (30 downto 23).
+#    Time: 0 ps  Iteration: 0  Process: /floatpoint_adder_tb/DUT/line__51 File: /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd
+# Fatal error in Process line__51 at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd line 62
+# 
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 62 Process line__51
+# 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 24 (23 downto 0). Right is 8 (30 downto 23).
+#    Time: 200 ns  Iteration: 0  Process: /floatpoint_adder_tb/DUT/line__51 File: /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd
+# Fatal error in Process line__51 at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd line 62
+# 
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 62 Process line__51
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 62 Process line__51
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 62 Process line__51
+# 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 9 (8 downto 0). Right is 8 (30 downto 23).
+#    Time: 200 ns  Iteration: 0  Process: /floatpoint_adder_tb/DUT/line__51 File: /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd
+# Fatal error in Process line__51 at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd line 61
+# 
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 61 Process line__51
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 61 Process line__51
+# 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 23 (22 downto 0). Right is 8 (30 downto 23).
+#    Time: 200 ns  Iteration: 0  Process: /floatpoint_adder_tb/DUT/line__51 File: /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd
+# Fatal error in Process line__51 at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd line 62
+# 
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 62 Process line__51
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 62 Process line__51
+# 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 62 Process line__51
+# 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+run
+run
+run
+run
+add wave -position end  sim:/floatpoint_adder_tb/a_tb
+add wave -position end  sim:/floatpoint_adder_tb/b_tb
+add wave -position end  sim:/floatpoint_adder_tb/start_tb
+add wave -position end  sim:/floatpoint_adder_tb/s_tb
+add wave -position end  sim:/floatpoint_adder_tb/done_tb
+add wave -position end  sim:/floatpoint_adder_tb/rst_tb
+add wave -position end  sim:/floatpoint_adder_tb/clk_tb
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+run
+add wave -position end  sim:/floatpoint_adder_tb/DUT/a_i
+add wave -position end  sim:/floatpoint_adder_tb/DUT/b_i
+add wave -position end  sim:/floatpoint_adder_tb/DUT/start_i
+add wave -position end  sim:/floatpoint_adder_tb/DUT/s_o
+add wave -position end  sim:/floatpoint_adder_tb/DUT/done_o
+add wave -position end  sim:/floatpoint_adder_tb/DUT/rst
+add wave -position end  sim:/floatpoint_adder_tb/DUT/clk
+add wave -position end  sim:/floatpoint_adder_tb/DUT/state_reg
+add wave -position end  sim:/floatpoint_adder_tb/DUT/state_next
+add wave -position end  sim:/floatpoint_adder_tb/DUT/sg_a
+add wave -position end  sim:/floatpoint_adder_tb/DUT/exponent_a
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_a
+add wave -position end  sim:/floatpoint_adder_tb/DUT/sg_b
+add wave -position end  sim:/floatpoint_adder_tb/DUT/exponent_b
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_b
+run -continue
+run -continue
+run
+run
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+run
+run
+run
+add wave -position end  sim:/floatpoint_adder_tb/DUT/a_i
+add wave -position end  sim:/floatpoint_adder_tb/DUT/b_i
+add wave -position end  sim:/floatpoint_adder_tb/DUT/start_i
+add wave -position end  sim:/floatpoint_adder_tb/DUT/s_o
+add wave -position end  sim:/floatpoint_adder_tb/DUT/done_o
+add wave -position end  sim:/floatpoint_adder_tb/DUT/rst
+add wave -position end  sim:/floatpoint_adder_tb/DUT/clk
+add wave -position end  sim:/floatpoint_adder_tb/DUT/state_reg
+add wave -position end  sim:/floatpoint_adder_tb/DUT/state_next
+add wave -position end  sim:/floatpoint_adder_tb/DUT/sg_a
+add wave -position end  sim:/floatpoint_adder_tb/DUT/exponent_a
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_a
+add wave -position end  sim:/floatpoint_adder_tb/DUT/sg_b
+add wave -position end  sim:/floatpoint_adder_tb/DUT/exponent_b
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_b
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_a_aux
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_b_aux
+add wave -position end  sim:/floatpoint_adder_tb/DUT/diff_exp
+run -continue
+# Compile of floatpoint_adder.vhd failed with 2 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 2 errors. 
+# Compile of floatpoint_adder.vhd failed with 2 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 2 errors. 
+# Compile of floatpoint_adder.vhd failed with 2 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 2 errors. 
+# Compile of floatpoint_adder.vhd failed with 2 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 2 errors. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+run
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 9 (8 downto 0). Right is 8 (7 downto 0).
+#    Time: 300 ns  Iteration: 1  Process: /floatpoint_adder_tb/DUT/line__57 File: /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd
+# Fatal error in Process line__57 at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd line 82
+# 
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 82 Process line__57
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 82 Process line__57
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 82 Process line__57
+# 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+run
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 0 (62 downto 127 (null array)). Right is 8 (7 downto 0).
+#    Time: 300 ns  Iteration: 1  Process: /floatpoint_adder_tb/DUT/line__57 File: /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd
+# Fatal error in Process line__57 at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd line 83
+# 
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 83 Process line__57
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 83 Process line__57
+# 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+run
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/s_o(31 downto 0) has no driver.
+# This port will contribute value (UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/done_o has no driver.
+# This port will contribute value (U) to the signal network.
+run
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/s_o(31 downto 0) has no driver.
+# This port will contribute value (UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/done_o has no driver.
+# This port will contribute value (U) to the signal network.
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/s_o(31 downto 0) has no driver.
+# This port will contribute value (UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/done_o has no driver.
+# This port will contribute value (U) to the signal network.
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/s_o(31 downto 0) has no driver.
+# This port will contribute value (UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/done_o has no driver.
+# This port will contribute value (U) to the signal network.
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/s_o(31 downto 0) has no driver.
+# This port will contribute value (UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/done_o has no driver.
+# This port will contribute value (U) to the signal network.
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position end  sim:/floatpoint_adder_tb/DUT/a_i
+add wave -position end  sim:/floatpoint_adder_tb/DUT/b_i
+add wave -position end  sim:/floatpoint_adder_tb/DUT/start_i
+add wave -position end  sim:/floatpoint_adder_tb/DUT/s_o
+add wave -position end  sim:/floatpoint_adder_tb/DUT/done_o
+add wave -position end  sim:/floatpoint_adder_tb/DUT/rst
+add wave -position end  sim:/floatpoint_adder_tb/DUT/clk
+add wave -position end  sim:/floatpoint_adder_tb/DUT/state_reg
+add wave -position end  sim:/floatpoint_adder_tb/DUT/state_next
+add wave -position end  sim:/floatpoint_adder_tb/DUT/sg_a
+add wave -position end  sim:/floatpoint_adder_tb/DUT/exponent_a
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_a
+add wave -position end  sim:/floatpoint_adder_tb/DUT/sg_b
+add wave -position end  sim:/floatpoint_adder_tb/DUT/exponent_b
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_b
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_a_aux
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_b_aux
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_out_aux
+add wave -position end  sim:/floatpoint_adder_tb/DUT/diff_exp
+run
+run
+run
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/s_o(31 downto 0) has no driver.
+# This port will contribute value (UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/done_o has no driver.
+# This port will contribute value (U) to the signal network.
+run
+run
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/s_o(31 downto 0) has no driver.
+# This port will contribute value (UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/done_o has no driver.
+# This port will contribute value (U) to the signal network.
+run
+run
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder_tb.vhd was successful.
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 2 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 2 errors. 
+# Compile of floatpoint_adder.vhd failed with 2 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 2 errors. 
+# Compile of floatpoint_adder.vhd failed with 2 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 2 errors. 
+# Compile of floatpoint_adder.vhd failed with 2 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 2 errors. 
+# Compile of floatpoint_adder.vhd failed with 2 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 2 errors. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful with warnings.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/done_o has no driver.
+# This port will contribute value (U) to the signal network.
+run
+run
+run
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+run
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/done_o has no driver.
+# This port will contribute value (U) to the signal network.
+run
+run
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 25 (24 downto 0). Right is 27 (0 to 26).
+#    Time: 200 ns  Iteration: 0  Process: /floatpoint_adder_tb/DUT/line__63 File: /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd
+# Fatal error in Process line__63 at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd line 76
+# 
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 76 Process line__63
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 76 Process line__63
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 76 Process line__63
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 76 Process line__63
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/leandro/Desktop/UBA/CESE/CLP/trabajo_final/Fuentes/floatpoint_adder.vhd 76 Process line__63
+# 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/done_o has no driver.
+# This port will contribute value (U) to the signal network.
+run
+run
+run
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.floatpoint_adder_tb(floatpoint_adder_tb_arq)
+# Loading work.floatpoint_adder(floatpoint_adder_arq)
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/done_o has no driver.
+# This port will contribute value (U) to the signal network.
+run
+run
+run
+run
+run
+add wave -position end  sim:/floatpoint_adder_tb/DUT/a_i
+add wave -position end  sim:/floatpoint_adder_tb/DUT/b_i
+add wave -position end  sim:/floatpoint_adder_tb/DUT/start_i
+add wave -position end  sim:/floatpoint_adder_tb/DUT/s_o
+add wave -position end  sim:/floatpoint_adder_tb/DUT/done_o
+add wave -position end  sim:/floatpoint_adder_tb/DUT/rst
+add wave -position end  sim:/floatpoint_adder_tb/DUT/clk
+add wave -position end  sim:/floatpoint_adder_tb/DUT/state_reg
+add wave -position end  sim:/floatpoint_adder_tb/DUT/state_next
+add wave -position end  sim:/floatpoint_adder_tb/DUT/sg_a
+add wave -position end  sim:/floatpoint_adder_tb/DUT/exponent_a
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_a
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_a_ver
+add wave -position end  sim:/floatpoint_adder_tb/DUT/sg_b
+add wave -position end  sim:/floatpoint_adder_tb/DUT/exponent_b
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_b
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_b_ver
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_a_aux
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_b_aux
+add wave -position end  sim:/floatpoint_adder_tb/DUT/sig_out_aux
+add wave -position end  sim:/floatpoint_adder_tb/DUT/mantissa_out_aux
+add wave -position end  sim:/floatpoint_adder_tb/DUT/diff_exp
+restart
+# ** Warning: (vsim-8683) Uninitialized out port /floatpoint_adder_tb/DUT/done_o has no driver.
+# This port will contribute value (U) to the signal network.
+run
+run
+run
+run
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd failed with 1 errors.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of floatpoint_adder.vhd was successful.
+# Compile of floatpoint_adder_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 

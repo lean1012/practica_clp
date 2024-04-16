@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+d/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/15_contBCD_comportamiento/Simulacion
+Econtnciclos
+Z0 w1712967022
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 d/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/17_contNciclos/Simulacion
+Z5 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/17_contNciclos/Fuentes/contNciclos.vhd
+Z6 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/17_contNciclos/Fuentes/contNciclos.vhd
+l0
+L6
+VIb>3VGcbI9<G5jJzMDQUS0
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1712967038.489178
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/17_contNciclos/Fuentes/contNciclos.vhd|
+Z10 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/17_contNciclos/Fuentes/contNciclos.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 a[^P0VPonoBe=;:mGgH^T0
+!i10b 1
+Acontnciclos_arq
+R1
+R2
+R3
+Z13 DEx4 work 11 contnciclos 0 22 Ib>3VGcbI9<G5jJzMDQUS0
+l21
+L17
+V8m=Wl1XDmdZS4kmol>[db1
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 eVlHgAGJ=jmZFe[QMAz]T0
+!i10b 1
+Econtnciclos_tb
+Z14 w1712966973
+R2
+R3
+R4
+Z15 8/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/17_contNciclos/Fuentes/contNciclos_tb.vhd
+Z16 F/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/17_contNciclos/Fuentes/contNciclos_tb.vhd
+l0
+L4
+Vd0bS:z17F=eb?ZHXM=eh62
+!s100 Q@L^O<H_iZVQcFFBI_aPA2
+R7
+32
+!i10b 1
+Z17 !s108 1712967038.543881
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/17_contNciclos/Fuentes/contNciclos_tb.vhd|
+Z19 !s107 /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/17_contNciclos/Fuentes/contNciclos_tb.vhd|
+R11
+R12
+Acontnciclos_tb_arq
+R1
+R13
+R2
+R3
+Z20 DEx4 work 14 contnciclos_tb 0 22 d0bS:z17F=eb?ZHXM=eh62
+l26
+L7
+Z21 VZK<6]Zlbz`DEnOlFAX[7[0
+Z22 !s100 ONjfSPcYTgc=1[3z9:Z`K0
+R7
+32
+!i10b 1
+R17
+R18
+R19
+R11
+R12

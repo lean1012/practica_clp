@@ -1,0 +1,891 @@
+# Loading project shiftNb
+# reading /home/leandro/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project cont4b
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.cont4b_tb
+# vsim -voptargs=+acc work.cont4b_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+add wave -position end  sim:/cont4b_tb/clk_tb
+add wave -position end  sim:/cont4b_tb/rst_tb
+add wave -position end  sim:/cont4b_tb/ena_tb
+add wave -position end  sim:/cont4b_tb/q_tb
+run
+run
+run
+run
+run
+run
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position end  sim:/cont4b_tb/DUT/clk_i
+add wave -position end  sim:/cont4b_tb/DUT/rst_i
+add wave -position end  sim:/cont4b_tb/DUT/ena_i
+add wave -position end  sim:/cont4b_tb/DUT/q_o
+add wave -position end  sim:/cont4b_tb/DUT/d_aux
+add wave -position end  sim:/cont4b_tb/DUT/d_aux2
+add wave -position end  sim:/cont4b_tb/DUT/q_aux
+restart
+run
+run
+run
+run
+run
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+run
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+run
+run
+run
+run
+restart
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+run
+run
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+run
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+run
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+run
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+run
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+run
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+run
+run
+add wave -position end  sim:/cont4b_tb/DUT/clk_i
+add wave -position end  sim:/cont4b_tb/DUT/rst_i
+add wave -position end  sim:/cont4b_tb/DUT/ena_i
+add wave -position end  sim:/cont4b_tb/DUT/q_o
+add wave -position end  sim:/cont4b_tb/DUT/d_aux
+add wave -position end  sim:/cont4b_tb/DUT/d_aux2
+add wave -position end  sim:/cont4b_tb/DUT/q_aux
+restart
+run
+run
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+run
+run
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# ** Error: (vsim-3732) /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/10_cont4b/Fuentes/cont4b_tb.vhd(35): No default binding for component instance 'DUT'.
+#    The following component port is not on the entity:
+#           q_o
+#         Region: /cont4b_tb/DUT
+# Loading work.ffd(ffd_arq)
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.cont4b_tb
+# vsim -voptargs=+acc work.cont4b_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+# Warning in wave window restart: (vish-4014) No objects found matching '/cont4b_tb/DUT/q_o'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/cont4b_tb/DUT/d_aux'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/cont4b_tb/DUT/d_aux2'. 
+restart
+add wave -position end  sim:/cont4b_tb/clk_tb
+add wave -position end  sim:/cont4b_tb/rst_tb
+add wave -position end  sim:/cont4b_tb/ena_tb
+add wave -position end  sim:/cont4b_tb/q_tb
+restart
+run
+run
+run
+run
+run
+run
+add wave -position end  sim:/cont4b_tb/DUT/clk_i
+add wave -position end  sim:/cont4b_tb/DUT/rst_i
+add wave -position end  sim:/cont4b_tb/DUT/ena_i
+add wave -position end  sim:/cont4b_tb/DUT/qq_o
+add wave -position end  sim:/cont4b_tb/DUT/sal_and
+add wave -position end  sim:/cont4b_tb/DUT/sal_xor
+add wave -position end  sim:/cont4b_tb/DUT/q_aux
+restart
+run
+run
+run
+run
+add wave -position end  sim:/cont4b_tb/DUT/cont4b_inst(3)/ffd_inst/clk_i
+add wave -position end  sim:/cont4b_tb/DUT/cont4b_inst(3)/ffd_inst/rst_i
+add wave -position end  sim:/cont4b_tb/DUT/cont4b_inst(3)/ffd_inst/ena_i
+add wave -position end  sim:/cont4b_tb/DUT/cont4b_inst(3)/ffd_inst/d_i
+add wave -position end  sim:/cont4b_tb/DUT/cont4b_inst(3)/ffd_inst/q_o
+restart
+run
+run
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+# Warning in wave window restart: (vish-4014) No objects found matching '/cont4b_tb/DUT/qq_o'. 
+run
+run
+run
+restart
+run
+run
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+# ** Failure: (vsim-3807) Types do not match between component and entity for port "d_i".
+#    Time: 0 ps  Iteration: 0  Instance: /cont4b_tb/DUT/cont4b_inst(0)/ffd_inst File: /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/10_cont4b/Fuentes/ffd.vhd Line: 12
+# ** Failure: (vsim-3807) Types do not match between component and entity for port "q_o".
+#    Time: 0 ps  Iteration: 0  Instance: /cont4b_tb/DUT/cont4b_inst(0)/ffd_inst File: /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/10_cont4b/Fuentes/ffd.vhd Line: 13
+# Fatal error in file /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/10_cont4b/Fuentes/ffd.vhd
+#  while elaborating region: /cont4b_tb/DUT/cont4b_inst(0)/ffd_inst
+# Load interrupted
+# Compile of cont4b_tb.vhd was successful.
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.cont4b_tb
+# vsim -voptargs=+acc work.cont4b_tb 
+# Error loading design
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.cont4b_tb
+# vsim -voptargs=+acc work.cont4b_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+# ** Failure: (vsim-3807) Types do not match between component and entity for port "d_i".
+#    Time: 0 ps  Iteration: 0  Instance: /cont4b_tb/DUT/cont4b_inst(0)/ffd_inst File: /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/10_cont4b/Fuentes/ffd.vhd Line: 12
+# ** Failure: (vsim-3807) Types do not match between component and entity for port "q_o".
+#    Time: 0 ps  Iteration: 0  Instance: /cont4b_tb/DUT/cont4b_inst(0)/ffd_inst File: /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/10_cont4b/Fuentes/ffd.vhd Line: 13
+# Fatal error in file /home/leandro/Desktop/UBA/CESE/CLP/practico/Codigos/10_cont4b/Fuentes/ffd.vhd
+#  while elaborating region: /cont4b_tb/DUT/cont4b_inst(0)/ffd_inst
+# Load interrupted
+# Error loading design
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful with warnings.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.cont4b_tb
+# vsim -voptargs=+acc work.cont4b_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+restart
+run
+run
+run
+run
+run
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd failed with 1 errors.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd failed with 1 errors.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd failed with 1 errors.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd failed with 1 errors.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd failed with 1 errors.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+run
+run
+quit -sim
+# reading /home/leandro/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project ffd
+# Compile of ffd.vhd was successful.
+# Compile of ffd_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of ffd.vhd was successful.
+# Compile of ffd_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.ffd_tb
+# vsim -voptargs=+acc work.ffd_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ffd_tb(ffd_tb_arq)
+# Loading work.ffd(ffd_arq)
+add wave -position end  sim:/ffd_tb/clk_tb
+add wave -position end  sim:/ffd_tb/rst_tb
+add wave -position end  sim:/ffd_tb/ena_tb
+add wave -position end  sim:/ffd_tb/d_tb
+add wave -position end  sim:/ffd_tb/q_tb
+run
+run
+run
+# Break key hit 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# reading /home/leandro/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project sim4b
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.cont4b_tb
+# vsim -voptargs=+acc work.cont4b_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+add wave -position end  sim:/cont4b_tb/clk_tb
+add wave -position end  sim:/cont4b_tb/rst_tb
+add wave -position end  sim:/cont4b_tb/ena_tb
+add wave -position end  sim:/cont4b_tb/q_tb
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# WARNING: No extended dataflow license exists
+add wave -position end  sim:/cont4b_tb/DUT/clk_i
+add wave -position end  sim:/cont4b_tb/DUT/rst_i
+add wave -position end  sim:/cont4b_tb/DUT/ena_i
+add wave -position end  sim:/cont4b_tb/DUT/cont
+add wave -position end  sim:/cont4b_tb/DUT/sal_and
+add wave -position end  sim:/cont4b_tb/DUT/sal_xor
+add wave -position end  sim:/cont4b_tb/DUT/q_aux
+restart
+run
+run
+restart
+run
+add dataflow \
+sim:/cont4b_tb/DUT/clk_i \
+sim:/cont4b_tb/DUT/rst_i \
+sim:/cont4b_tb/DUT/ena_i \
+sim:/cont4b_tb/DUT/cont \
+sim:/cont4b_tb/DUT/sal_and \
+sim:/cont4b_tb/DUT/sal_xor \
+sim:/cont4b_tb/DUT/q_aux 
+# No drivers or ports for clk_i
+# No drivers or ports for rst_i
+# No drivers or ports for ena_i
+# No drivers or ports for cont
+# No drivers or ports for sal_and
+# No drivers or ports for sal_xor
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+restart
+add wave -position end  sim:/cont4b_tb/clk_tb
+add wave -position end  sim:/cont4b_tb/rst_tb
+add wave -position end  sim:/cont4b_tb/ena_tb
+add wave -position end  sim:/cont4b_tb/q_tb
+run
+run
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+# Changing window so values will track the active time
+# Warning: Unable to determine driver(s) for "sim:/cont4b_tb/DUT/q_aux"
+add dataflow  \
+sim:/cont4b_tb/DUT/sal_and
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+add dataflow  \
+sim:/cont4b_tb/DUT/sal_and
+# WARNING: No extended dataflow license exists
+add dataflow  \
+sim:/cont4b_tb/DUT/clk_i \
+sim:/cont4b_tb/DUT/rst_i \
+sim:/cont4b_tb/DUT/ena_i \
+sim:/cont4b_tb/DUT/cont
+# No drivers or ports for clk_i
+# No drivers or ports for rst_i
+# No drivers or ports for ena_i
+add dataflow  \
+sim:/cont4b_tb/DUT/cont \
+sim:/cont4b_tb/DUT/sal_and \
+sim:/cont4b_tb/DUT/sal_xor \
+sim:/cont4b_tb/DUT/q_aux \
+sim:/cont4b_tb/DUT/d_aux
+# No drivers or ports for cont
+# No drivers or ports for sal_and
+# No drivers or ports for sal_xor
+# No drivers or ports for q_aux
+# No drivers or ports for d_aux
+add dataflow sim:/cont4b_tb/*
+add dataflow sim:/cont4b_tb/*
+add wave -position insertpoint sim:/cont4b_tb/DUT/line__47/*
+# (vish-4014) No objects found matching '/cont4b_tb/DUT/line__47/*'.
+add dataflow sim:/cont4b_tb/DUT/line__47/*
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+run
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+run
+restart
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+add dataflow  \
+sim:/cont4b_tb/clk_tb \
+sim:/cont4b_tb/rst_tb \
+sim:/cont4b_tb/ena_tb \
+sim:/cont4b_tb/q_tb
+# WARNING: No extended dataflow license exists
+# No drivers or ports for clk_tb
+# No drivers or ports for rst_tb
+# No drivers or ports for ena_tb
+add wave -position end  sim:/cont4b_tb/DUT/clk_i
+add wave -position end  sim:/cont4b_tb/DUT/rst_i
+add wave -position end  sim:/cont4b_tb/DUT/ena_i
+add wave -position end  sim:/cont4b_tb/DUT/cont
+add wave -position end  sim:/cont4b_tb/DUT/sal_and
+add wave -position end  sim:/cont4b_tb/DUT/sal_xor
+add wave -position end  sim:/cont4b_tb/DUT/q_aux
+add wave -position end  sim:/cont4b_tb/DUT/d_aux
+run
+run
+add dataflow \
+sim:/cont4b_tb/DUT/d_aux 
+# WARNING: No extended dataflow license exists
+add dataflow  \
+sim:/cont4b_tb/DUT/sal_xor
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+run
+run
+run
+run
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of cont4b.vhd failed with 1 errors.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
